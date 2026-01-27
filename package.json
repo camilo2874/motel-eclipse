@@ -1,0 +1,16 @@
+{
+  "name": "motel-eclipse",
+  "version": "1.0.0",
+  "description": "Sistema de gestión para Motel Eclipse",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"cd frontend && npm run dev\" \"cd backend && npm run dev\"",
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install"
+  },
+  "keywords": ["motel", "gestion", "eclipse"],
+  "author": "Motel Eclipse",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
